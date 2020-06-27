@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="89a56950c3a04a729c46f77f2dcf3cc8" Name="Diagram1">
+        <EntityTypeShape EntityType="DBILABModel.Employee" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBILABModel.Project" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBILABModel.Salary" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBILABModel.Task" Width="1.5" PointX="5.25" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBILABModel.Work" Width="1.5" PointX="3" PointY="8.125" IsExpanded="true" />
+        <AssociationConnector Association="DBILABModel.FK__Project__IDLeade__29572725" ManuallyRouted="false" />
+        <AssociationConnector Association="DBILABModel.FK__Salary__IDEmploy__32E0915F" ManuallyRouted="false" />
+        <AssociationConnector Association="DBILABModel.FK__Work__IDEmployee__267ABA7A" ManuallyRouted="false" />
+        <AssociationConnector Association="DBILABModel.FK__Task__IDProject__2C3393D0" ManuallyRouted="false" />
+        <AssociationConnector Association="DBILABModel.TaskEmployee" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

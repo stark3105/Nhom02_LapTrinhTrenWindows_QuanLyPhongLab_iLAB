@@ -1,0 +1,225 @@
+E:\OthersProgram\iLAB\iLAB\bin\Debug\iLAB.exe.config
+E:\OthersProgram\iLAB\iLAB\bin\Debug\iLAB.exe
+E:\OthersProgram\iLAB\iLAB\bin\Debug\iLAB.pdb
+E:\OthersProgram\iLAB\iLAB\bin\Debug\MetroFramework.Design.dll
+E:\OthersProgram\iLAB\iLAB\bin\Debug\MetroFramework.dll
+E:\OthersProgram\iLAB\iLAB\bin\Debug\MetroFramework.Fonts.dll
+E:\OthersProgram\iLAB\iLAB\obj\Debug\iLAB.csprojAssemblyReference.cache
+E:\OthersProgram\iLAB\iLAB\obj\Debug\iLAB.fLogin.resources
+E:\OthersProgram\iLAB\iLAB\obj\Debug\iLAB.Properties.Resources.resources
+E:\OthersProgram\iLAB\iLAB\obj\Debug\iLAB.csproj.GenerateResource.cache
+E:\OthersProgram\iLAB\iLAB\obj\Debug\iLAB.csproj.CoreCompileInputs.cache
+E:\OthersProgram\iLAB\iLAB\obj\Debug\iLAB.csproj.CopyComplete
+E:\OthersProgram\iLAB\iLAB\obj\Debug\iLAB.exe
+E:\OthersProgram\iLAB\iLAB\obj\Debug\iLAB.pdb
+E:\OthersProgram\iLAB\iLAB\obj\Debug\iLAB.f_Main.resources
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\iLAB.exe.config
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\iLAB.exe
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\iLAB.pdb
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\MetroFramework.Design.dll
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\MetroFramework.dll
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\MetroFramework.Fonts.dll
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.csprojAssemblyReference.cache
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.fLogin.resources
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.f_Main.resources
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Properties.Resources.resources
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.csproj.GenerateResource.cache
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.csproj.CoreCompileInputs.cache
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.csproj.CopyComplete
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.exe
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.pdb
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\EntityFramework.dll
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.dll
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\EntityFramework.xml
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.xml
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.f_Employee.resources
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Views.f_Project.resources
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectDetail.resources
+E:\OthersProgram\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectEdit.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\bin\Debug\iLAB.exe.config
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\bin\Debug\iLAB.exe
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\bin\Debug\iLAB.pdb
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\bin\Debug\EntityFramework.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\bin\Debug\MetroFramework.Design.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\bin\Debug\MetroFramework.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\bin\Debug\MetroFramework.Fonts.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\bin\Debug\EntityFramework.xml
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.xml
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.csprojAssemblyReference.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.f_Employee.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.Properties.Resources.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_Project.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectDetail.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectEdit.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.csproj.GenerateResource.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.csproj.CoreCompileInputs.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.csproj.CopyComplete
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.exe
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.pdb
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.Views.fLogin.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_Main.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_Working.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_Salary.resources
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\bin\Debug\iLAB.exe.config
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\bin\Debug\iLAB.exe
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\bin\Debug\iLAB.pdb
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\bin\Debug\EntityFramework.dll
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.dll
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\bin\Debug\MetroFramework.Design.dll
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\bin\Debug\MetroFramework.dll
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\bin\Debug\MetroFramework.Fonts.dll
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\bin\Debug\EntityFramework.xml
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.xml
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.csprojAssemblyReference.cache
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.f_Employee.resources
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.Views.fLogin.resources
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_Main.resources
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.Properties.Resources.resources
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_Project.resources
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectDetail.resources
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_Salary.resources
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_Working.resources
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectEdit.resources
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.csproj.GenerateResource.cache
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.csproj.CoreCompileInputs.cache
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.csproj.CopyComplete
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.exe
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.pdb
+E:\WindowsProgramming\iLAB\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_TaskEdit.resources
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\bin\Debug\iLAB.exe.config
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\bin\Debug\iLAB.exe
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\bin\Debug\iLAB.pdb
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\bin\Debug\EntityFramework.dll
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.dll
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\bin\Debug\MetroFramework.Design.dll
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\bin\Debug\MetroFramework.dll
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\bin\Debug\MetroFramework.Fonts.dll
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\bin\Debug\EntityFramework.xml
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.xml
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.f_Employee.resources
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.fLogin.resources
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_Main.resources
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Properties.Resources.resources
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_Project.resources
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectDetail.resources
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_Salary.resources
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_TaskEdit.resources
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_Working.resources
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectEdit.resources
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.csproj.GenerateResource.cache
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.csproj.CoreCompileInputs.cache
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.csproj.CopyComplete
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.exe
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.pdb
+E:\WindowsProgramming\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.csprojAssemblyReference.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\bin\Debug\iLAB.exe.config
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\bin\Debug\iLAB.exe
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\bin\Debug\iLAB.pdb
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\bin\Debug\EntityFramework.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\bin\Debug\MetroFramework.Design.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\bin\Debug\MetroFramework.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\bin\Debug\MetroFramework.Fonts.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\bin\Debug\EntityFramework.xml
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.xml
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.csprojAssemblyReference.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.f_Employee.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.fLogin.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_Main.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Properties.Resources.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_Project.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectDetail.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_Salary.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_TaskEdit.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_Working.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectEdit.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.csproj.GenerateResource.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.csproj.CoreCompileInputs.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.csproj.CopyComplete
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.exe
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB - LAB Management\iLAB\iLAB\obj\Debug\iLAB.pdb
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\iLAB.exe.config
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\iLAB.exe
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\iLAB.pdb
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\EntityFramework.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\MetroFramework.Design.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\MetroFramework.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\MetroFramework.Fonts.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\EntityFramework.xml
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.xml
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.csprojAssemblyReference.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.f_Employee.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Views.fLogin.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Views.f_Main.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Properties.Resources.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Views.f_Project.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectDetail.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Views.f_Salary.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Views.f_TaskEdit.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Views.f_Working.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectEdit.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.csproj.GenerateResource.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.csproj.CoreCompileInputs.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.csproj.CopyComplete
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.exe
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\iLab_DataBaseFirst\iLAB\iLAB\obj\Debug\iLAB.pdb
+C:\Users\Asus\Downloads\iLAB\iLAB\bin\Debug\iLAB.exe.config
+C:\Users\Asus\Downloads\iLAB\iLAB\bin\Debug\iLAB.exe
+C:\Users\Asus\Downloads\iLAB\iLAB\bin\Debug\iLAB.pdb
+C:\Users\Asus\Downloads\iLAB\iLAB\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Downloads\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Downloads\iLAB\iLAB\bin\Debug\MetroFramework.Design.dll
+C:\Users\Asus\Downloads\iLAB\iLAB\bin\Debug\MetroFramework.dll
+C:\Users\Asus\Downloads\iLAB\iLAB\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Asus\Downloads\iLAB\iLAB\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Downloads\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.f_Employee.resources
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.Views.fLogin.resources
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.Views.f_Main.resources
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.Properties.Resources.resources
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.Views.f_Project.resources
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectDetail.resources
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.Views.f_Salary.resources
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.Views.f_TaskEdit.resources
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.Views.f_Working.resources
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectEdit.resources
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.csproj.CopyComplete
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.exe
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.pdb
+C:\Users\Asus\Downloads\iLAB\iLAB\obj\Debug\iLAB.Views.f_AccountInfo.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\bin\Debug\iLAB.exe.config
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\bin\Debug\iLAB.exe
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\bin\Debug\iLAB.pdb
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\bin\Debug\EntityFramework.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\bin\Debug\MetroFramework.Design.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\bin\Debug\MetroFramework.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\bin\Debug\MetroFramework.Fonts.dll
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\bin\Debug\EntityFramework.xml
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\bin\Debug\EntityFramework.SqlServer.xml
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.csprojAssemblyReference.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.Views.f_AccountInfo.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.f_Employee.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.Views.fLogin.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.Views.f_Main.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.Properties.Resources.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.Views.f_Project.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectDetail.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.Views.f_Salary.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.Views.f_TaskEdit.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.Views.f_Working.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.Views.f_ProjectEdit.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.csproj.GenerateResource.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.csproj.CoreCompileInputs.cache
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.csproj.CopyComplete
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.exe
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.pdb
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\iLAB\obj\Debug\iLAB.Views.f_About.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_About.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_AccountInfo.resources
+E:\TAI_LIEU_HOC_DAI_HOC\2019-2020_HK2\WINDOWS PROGRAMMING\DoAnCuoiKy\Code\Final\iLAB\iLAB\obj\Debug\iLAB.Views.f_TaskEdit.resources

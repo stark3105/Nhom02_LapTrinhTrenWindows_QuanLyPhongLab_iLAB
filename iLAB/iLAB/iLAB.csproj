@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{91B1528B-FE52-47A5-A058-29ACB5C7DA20}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>iLAB</RootNamespace>
+    <AssemblyName>iLAB</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LogoILAB.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\EmployeeController.cs" />
+    <Compile Include="Controllers\ProjectController.cs" />
+    <Compile Include="Controllers\SalaryController.cs" />
+    <Compile Include="Controllers\TaskController.cs" />
+    <Compile Include="Controllers\WorkController.cs" />
+    <Compile Include="Models\DBILAB.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBILAB.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DBILAB.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBILAB.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DBILAB.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBILAB.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Employee.cs">
+      <DependentUpon>DBILAB.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Global.cs" />
+    <Compile Include="Models\Project.cs">
+      <DependentUpon>DBILAB.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Salary.cs">
+      <DependentUpon>DBILAB.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\SalaryEmployee.cs" />
+    <Compile Include="Models\Task.cs">
+      <DependentUpon>DBILAB.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Work.cs">
+      <DependentUpon>DBILAB.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Views\f_About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\f_About.Designer.cs">
+      <DependentUpon>f_About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\f_AccountInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\f_AccountInfo.Designer.cs">
+      <DependentUpon>f_AccountInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\f_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\f_Employee.Designer.cs">
+      <DependentUpon>f_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\f_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\f_Login.Designer.cs">
+      <DependentUpon>f_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\f_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\f_Main.Designer.cs">
+      <DependentUpon>f_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\f_Project.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\f_Project.Designer.cs">
+      <DependentUpon>f_Project.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\f_ProjectDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\f_ProjectDetail.Designer.cs">
+      <DependentUpon>f_ProjectDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\f_Salary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\f_Salary.Designer.cs">
+      <DependentUpon>f_Salary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\f_TaskEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\f_TaskEdit.Designer.cs">
+      <DependentUpon>f_TaskEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\f_Working.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\f_Working.Designer.cs">
+      <DependentUpon>f_Working.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\f_ProjectEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\f_ProjectEdit.Designer.cs">
+      <DependentUpon>f_ProjectEdit.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\f_About.resx">
+      <DependentUpon>f_About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\f_AccountInfo.resx">
+      <DependentUpon>f_AccountInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\f_Employee.resx">
+      <DependentUpon>f_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\f_Login.resx">
+      <DependentUpon>f_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\f_Main.resx">
+      <DependentUpon>f_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\f_Project.resx">
+      <DependentUpon>f_Project.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\f_ProjectDetail.resx">
+      <DependentUpon>f_ProjectDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\f_Salary.resx">
+      <DependentUpon>f_Salary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\f_TaskEdit.resx">
+      <DependentUpon>f_TaskEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\f_Working.resx">
+      <DependentUpon>f_Working.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\f_ProjectEdit.resx">
+      <DependentUpon>f_ProjectEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="Models\DBILAB.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>DBILAB.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Models\DBILAB.edmx.diagram">
+      <DependentUpon>DBILAB.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Lab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iLAB1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_UI_Basic_outline-116_4733225.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Management_3448012.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iLAB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Project.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Help_1493288.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iLAB_Employee.png" />
+    <None Include="Resources\iLAB_Salary.png" />
+    <None Include="Resources\iLAB_Working.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iLAB_Thong %284%291.png" />
+    <None Include="Resources\iLAB_Thong %284%29.png" />
+    <None Include="Resources\iLAB_Thong %283%29.png" />
+    <None Include="Resources\iLAB_Thong %282%291.png" />
+    <None Include="Resources\iLAB_Thong %282%29.png" />
+    <None Include="Resources\iLAB %281%29.png" />
+    <None Include="Resources\iLAB_Background_ProjectEdit2.png" />
+    <None Include="Resources\icon_Edit.png" />
+    <None Include="Resources\search-icon-png-4.png" />
+    <None Include="Resources\iLAB_Background_ProjectEdit1.png" />
+    <None Include="Resources\iLAB_Background_ProjectEdit.png" />
+    <None Include="Resources\iLAB_Thong %281%29.png" />
+    <None Include="Resources\iLAB_Thong.png" />
+    <None Include="Resources\iLAB_Background_ProjectDetail.png" />
+    <None Include="Resources\icon_Minimize.png" />
+    <None Include="Resources\iLAB_Background_Project2.png" />
+    <None Include="Resources\excel-logo.png" />
+    <None Include="Resources\iLAB_Background_Project1.png" />
+    <None Include="Resources\iLAB_Background_Project.png" />
+    <None Include="Resources\delete_button.png" />
+    <None Include="Resources\update_button.png" />
+    <None Include="Resources\add_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iLAB_Thong %286%29.png" />
+    <None Include="Resources\iLAB_Thong %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left_arrow3.jpg" />
+    <None Include="Resources\right_arrow3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LogoILAB.ico" />
+    <Content Include="Models\DBILAB.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DBILAB.edmx</DependentUpon>
+      <LastGenOutput>DBILAB.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\DBILAB.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DBILAB.edmx</DependentUpon>
+      <LastGenOutput>DBILAB.cs</LastGenOutput>
+    </Content>
+    <None Include="Resources\About_iLAB_THÔNG TIN PHẦN MỀM.png" />
+    <None Include="Resources\iLAB2.png" />
+    <None Include="Resources\Background QL Đoàn viên.png" />
+    <None Include="Resources\iLAB_Thong %283%291.png" />
+    <None Include="Resources\iLAB_Thong %281%291.png" />
+    <None Include="Resources\iLAB_Thong %282%292.png" />
+    <None Include="Resources\logo Excel.jpg" />
+    <None Include="Resources\iLAB_Thong1.png" />
+    <None Include="Resources\ImgEmployee.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>
