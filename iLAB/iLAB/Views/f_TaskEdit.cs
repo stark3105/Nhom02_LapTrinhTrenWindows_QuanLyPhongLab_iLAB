@@ -259,6 +259,7 @@ namespace iLAB.Views
                 StartDate = dtp_Start.Value,
                 EndDate = dtp_End.Value,
                 Status = cbb_Status.Text == "Chưa hoàn thành" ? 0 : 1,
+                LinkDocuments = tbx_Link.Text,
                 IDProject = (cbb_ChooseProject.SelectedItem as Project).ID,  
             };
 
